@@ -38,7 +38,9 @@ body{
     line-height: 1.7;
     cursor: none;
 }
-section { padding: 7rem 3rem; }
+section { padding: 7rem 3rem;
+width: 100%;
+ }
 
 /* custom cursor */
 .cursor{
